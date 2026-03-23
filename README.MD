@@ -1,6 +1,7 @@
 # 📚 StudySync
 
 A fully responsive 🌐 landing page showcasing modern 🎨 UI design using only HTML5 🧱 and CSS3 🎯 
+
 This project is a beginner-friendly frontend practice project focusing on responsive design and clean layout.
 
 ---
